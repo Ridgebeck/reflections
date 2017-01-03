@@ -26,9 +26,9 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    Because you can always go back to previous versions that have worked easily.
+    Because you can always go back easily to previous versions that have worked flawlessly.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I would liek to track a python project in Git.
+    I would like to track a current python project in Git.
 
